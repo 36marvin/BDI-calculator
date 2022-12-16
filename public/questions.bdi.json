@@ -1,0 +1,112 @@
+[
+    {
+        "n" : 1,
+        "question" : "Sadness",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    },
+    {
+        "n" : 1,
+        "question" : "Pessimism",
+        "answers" : 
+            [
+                {"0" : "I am not discouraged about my future", "points" :0},
+                {"1" : "I feel more discouraged about my future than I used to.", "points" :1},
+                {"2" : "I do not expect thing to work out for me.", "points" :2},
+                {"3" : "I feel my future is hopeless and will only get worse.", "points" :3}
+            ]
+    },
+    {
+        "n" : 1,
+        "question" : "Past Failure",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    },
+    {
+        "n" : 1,
+        "question" : "Loss of Pleasure",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    },
+    {
+        "n" : 1,
+        "question" : "Guilty Feelings",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    },
+    {
+        "n" : 1,
+        "question" : "Punishment Feelings",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    },
+    {
+        "n" : 1,
+        "question" : "Self Dislike",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    },
+    {
+        "n" : 8,
+        "question" : "Self criticalness",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    },
+    {
+        "n" : 1,
+        "question" : "Suicide thoughts or whishes",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    },
+    {
+        "n" : 10,
+        "question" : "Crying",
+        "answers" : 
+            [
+                {"0" : "I do not feel sad.", "points" :0},
+                {"1" : "I feel sad much of the time.", "points" :1},
+                {"2" : "I am sad all the time.", "points" :2},
+                {"3" : "I am so dad or unhappy that I can't stand it.", "points" :3}
+            ]
+    }
+]
